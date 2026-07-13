@@ -22,30 +22,51 @@
 
 <div align="center">
 
-```
-  MBA student. Non-tech background. Knows enough code to be dangerous.
+<table>
+<tr>
+<td align="center" width="50%">
 
-  So how do I ship production AI platforms that CS grads don't?
+<img src="https://img.shields.io/badge/MBA-Non_tech_background-9B59B6?style=for-the-badge&labelColor=0f0f23&color=9B59B6" alt="mba" />
 
-  ┌─────────────────────────────────────────────────┐
-  │                                                 │
-  │  Resource constraint is not a limitation.       │
-  │  It is the strategy.                            │
-  │                                                 │
-  │  MBA taught me to solve problems with what      │
-  │  exists, not what should exist.                 │
-  │                                                 │
-  │  So I pair no-code tools with AI as my          │
-  │  co-pilot, fill the gaps with instinct,         │
-  │  and ship before others finish planning.        │
-  │                                                 │
-  │  ₹0/day compute. 4 products. 2 live.            │
-  │  Built solo.                                    │
-  │                                                 │
-  └─────────────────────────────────────────────────┘
-```
+<br><br>
 
-**5,000+ commits. 1,000+ contributions.** That ratio is not an accident. It means I am not farming visibility. I am heads-down in the editor, building. This is not a side project. It is the main thing.
+**Knows enough code to be dangerous.**
+
+The rest is no-code tools, AI as co-pilot, and instinct for what real users need.
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/Resource_Constraint-Is_the_strategy-FF6B35?style=for-the-badge&labelColor=0f0f23&color=FF6B35" alt="constraint" />
+
+<br><br>
+
+**MBA taught me to solve problems with what exists, not what should exist.**
+
+While CS grads debate framework choices, I ship. While bootcamp grads build todo apps, I deploy multi-agent systems to production.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>₹0/day</h3>
+<sub>compute cost. 100% free-tier infra. production grade.</sub>
+</td>
+<td align="center" width="33%">
+<h3>4 products</h3>
+<sub>shipped. 2 live in production. built solo.</sub>
+</td>
+<td align="center" width="33%">
+<h3>5,000+ commits</h3>
+<sub>heads-down in the editor. not farming green squares.</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -151,20 +172,20 @@ Multi-agent AI analytics platform that does not just show data. It **reasons** a
 ## [FORGE-X v4 — Financial RAG](https://github.com/hereugo-ak/financial-rag)
 
 <a href="https://github.com/hereugo-ak/financial-rag"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&labelColor=0f0f23&color=181717" alt="github" /></a>
-<img src="https://img.shields.io/badge/25_Years_of_Data-2005_to_Present-FFD700?style=for-the-badge&labelColor=0f0f23&color=FFD700" alt="data" />
-<img src="https://img.shields.io/badge/Precision-80_to_90%25-00C896?style=for-the-badge&labelColor=0f0f23&color=00C896" alt="precision" />
+<img src="https://img.shields.io/badge/Data_Since-2000-FFD700?style=for-the-badge&labelColor=0f0f23&color=FFD700" alt="data" />
+<img src="https://img.shields.io/badge/Accuracy-73.6%25-00C896?style=for-the-badge&labelColor=0f0f23&color=00C896" alt="accuracy" />
 <img src="https://img.shields.io/badge/Compute-₹0_per_day-58A6FF?style=for-the-badge&labelColor=0f0f23" alt="cost" />
 
 </div>
 
-> *Trained on 25 years of financial data. Does not predict every day. It predicts **when it has an edge**. 80 to 90% precision on the 30% of signals it acts on.*
+> *Trained on 25+ years of financial data (since 2000). 73.6% achieved accuracy. Does not predict every day. It predicts **when it has an edge**.*
 
 A defensible financial intelligence system with four compounding moats. Not a trading bot. A **quantitative intelligence layer**.
 
 <div align="center">
 
 ```
-  RAW OHLCV + MACRO DATA (25 years, 2005 to present)
+  RAW OHLCV + MACRO DATA (since 2000, 25+ years)
      |
      +-- GFC '08 · Taper '13 · COVID '20 · '22 Hike Cycle
      |   (every market regime seen and learned)
@@ -189,15 +210,15 @@ A defensible financial intelligence system with four compounding moats. Not a tr
      v
   BUY / HOLD / SELL + UNCERTAINTY
      |
-     +-- Abstains on 70% of (stock, day) pairs
-     +-- 80 to 90% precision on the 30% where it speaks
+     +-- 73.6% achieved accuracy
+     +-- Abstains on low-conviction signals
 ```
 
 </div>
 
 | Moat | What it means |
 |:---|:---|
-| **Data** | 25 years point-in-time-correct, multi-source, multi-market. Free to source, expensive to reconstruct |
+| **Data** | 25+ years (since 2000) point-in-time-correct, multi-source, multi-market. Free to source, expensive to reconstruct |
 | **Label** | Triple-barrier + meta-labelling + regime tags + event de-noising. 80% of the edge lives here |
 | **Model** | Heterogeneous stacked ensemble with calibrated uncertainty + conformal intervals. Risk-aware sizing |
 | **Distribution** | RAG-grounded explanations turn a probability into a decision a human trusts |
