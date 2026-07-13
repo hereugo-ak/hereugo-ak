@@ -9,6 +9,7 @@
 <a href="https://quantuminsights-seven.vercel.app/"><img src="https://img.shields.io/badge/Live-Quantum_Insights-00C896?style=for-the-badge&logo=vercel&labelColor=0f0f23&color=00C896" alt="live" /></a>
 <a href="https://enrollplus.vercel.app/"><img src="https://img.shields.io/badge/Live-Enroll%2B-58A6FF?style=for-the-badge&logo=vercel&labelColor=0f0f23&color=58A6FF" alt="enroll-live" /></a>
 <img src="https://img.shields.io/badge/Status-Building-FF6B35?style=for-the-badge&labelColor=0f0f23&color=FF6B35" alt="status" />
+<img src="https://komarev.com/ghpvc/?username=hereugo-ak&color=58A6FF&style=for-the-badge&label=Profile%20Views" alt="profile-views" />
 
 <br><br>
 
@@ -122,7 +123,7 @@ While CS grads debate framework choices, I ship. While bootcamp grads build todo
 <tr>
 <td align="center" width="50%">
 <sub><b>JULY 2026 ACTIVITY</b></sub><br>
-<sub>93 commits across 3 repos: VidyaPrayag (81), hereugo-ak (6), quantum-insightsAI (6). Most of the year is back-loaded. The graph keeps climbing.</sub>
+<sub>95 commits across 3 repos: VidyaPrayag (81), hereugo-ak (6), quantum-insightsAI (6). Most of the year is back-loaded. The graph keeps climbing.</sub>
 </td>
 <td align="center" width="50%">
 <sub><b>PRODUCTS BUILT SOLO</b></sub><br>
@@ -315,10 +316,35 @@ Multi-agent system that automates the full job application pipeline on Telegram.
 <td align="center" width="25%"><strong>AI / ML</strong></td>
 </tr>
 <tr>
-<td align="center">Kotlin<br>Python<br>TypeScript<br>SQL<br>JavaScript</td>
-<td align="center">Kotlin Multiplatform<br>Compose Multiplatform<br>Android<br>iOS</td>
-<td align="center">FastAPI<br>Ktor<br>Supabase<br>PostgreSQL<br>Redis<br>Firebase</td>
-<td align="center">Multi-Agent Systems<br>RAG<br>Groq · Cerebras<br>OpenRouter · Mistral<br>Gemini · DeepSeek<br>scikit-learn<br>Circuit Breakers</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="KMP" /><br>
+<img src="https://img.shields.io/badge/Compose%20Multiplatform-3DDC84?style=flat-square&logo=jetpack-compose&logoColor=white" alt="Compose" /><br>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" /><br>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" alt="iOS" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /><br>
+<img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white" alt="Ktor" /><br>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /><br>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /><br>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-9B59B6?style=flat-square&logoColor=white" alt="Multi-Agent" /><br>
+<img src="https://img.shields.io/badge/RAG-00C896?style=flat-square&logoColor=white" alt="RAG" /><br>
+<img src="https://img.shields.io/badge/Groq-F55000?style=flat-square&logoColor=white" alt="Groq" /><br>
+<img src="https://img.shields.io/badge/Cerebras-000000?style=flat-square&logoColor=white" alt="Cerebras" /><br>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini" /><br>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+</td>
 </tr>
 <tr>
 <td align="center" width="25%"><strong>CLOUD</strong></td>
@@ -327,10 +353,32 @@ Multi-agent system that automates the full job application pipeline on Telegram.
 <td align="center" width="25%"><strong>FRONTEND</strong></td>
 </tr>
 <tr>
-<td align="center">Render<br>DigitalOcean<br>Cloudflare R2<br>Vercel<br>GitHub Actions</td>
-<td align="center">Git<br>Docker<br>Gradle<br>Figma</td>
-<td align="center">Plotly.js<br>Pandas<br>NumPy<br>SciPy</td>
-<td align="center">React 19<br>Vite 7<br>Tailwind CSS<br>Framer Motion<br>Three.js</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" alt="Render" /><br>
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" alt="DigitalOcean" /><br>
+<img src="https://img.shields.io/badge/Cloudflare%20R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" /><br>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /><br>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /><br>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" /><br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Plotly.js-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" /><br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /><br>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /><br>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /><br>
+<img src="https://img.shields.io/badge/Vite%207-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /><br>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" /><br>
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer" /><br>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
+</td>
 </tr>
 </table>
 
@@ -342,7 +390,24 @@ Multi-agent system that automates the full job application pipeline on Telegram.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hereugo-ak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58a6ff&icon_color=2ea043&bg_color=0f0f23" width="400" />
+<table>
+<tr>
+<td align="center" width="50%">
+<h2>1000+</h2>
+<sub><b>CONTRIBUTIONS IN THE LAST YEAR</b></sub><br>
+<sub>GitHub's rolling 12-month count</sub>
+</td>
+<td align="center" width="50%">
+<h2>419</h2>
+<sub><b>CONTRIBUTIONS IN 2026</b></sub><br>
+<sub>and the year is not over</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=hereugo-ak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58a6ff&icon_color=2ea043&bg_color=0f0f23&custom_title=GitHub%20Stats" width="400" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hereugo-ak&theme=tokyonight&hide_border=true&ring=2ea043&fire=ff6b35&curr=58a6ff&background=0f0f23" width="400" />
 
 <br>
