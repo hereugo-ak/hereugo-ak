@@ -5,14 +5,14 @@
 <br>
 
 <a href="https://github.com/hereugo-ak?tab=followers"><img src="https://img.shields.io/github/followers/hereugo-ak?style=for-the-badge&color=1a1a2e&labelColor=0f0f23" alt="followers" /></a>
-<img src="https://img.shields.io/badge/Contributions-997_in_2025--2026-2ea043?style=for-the-badge&logo=github&labelColor=0f0f23&color=2ea043" alt="contributions" />
+<img src="https://img.shields.io/badge/Contributions-1000%2B-2ea043?style=for-the-badge&logo=github&labelColor=0f0f23&color=2ea043" alt="contributions" />
 <a href="https://quantuminsights-seven.vercel.app/"><img src="https://img.shields.io/badge/Live-Quantum_Insights-00C896?style=for-the-badge&logo=vercel&labelColor=0f0f23&color=00C896" alt="live" /></a>
 <a href="https://enrollplus.vercel.app/"><img src="https://img.shields.io/badge/Live-Enroll%2B-58A6FF?style=for-the-badge&logo=vercel&labelColor=0f0f23&color=58A6FF" alt="enroll-live" /></a>
 <img src="https://img.shields.io/badge/Status-Building-FF6B35?style=for-the-badge&labelColor=0f0f23&color=FF6B35" alt="status" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MBA+turned+AI+product+builder.;4_public_repos._3_years_on_GitHub.;997+contributions_in_12_months.;Resource-constrained+by+design." alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MBA+turned+AI+product+builder.;4+public+repos.+3+years+on+GitHub.;1000%2B+contributions+in+12+months.;Resource-constrained+by+design." alt="typing" />
 
 </div>
 
@@ -69,6 +69,10 @@ While CS grads debate framework choices, I ship. While bootcamp grads build todo
 </tr>
 </table>
 
+<br>
+
+**1000+ contributions in the last year.** Daily building across 3 repos. That is not someone farming green squares. That is a solo builder treating GitHub like the main office. Because it is.
+
 </div>
 
 ---
@@ -80,7 +84,7 @@ While CS grads debate framework choices, I ship. While bootcamp grads build todo
 <table>
 <tr>
 <td align="center" width="16%">
-<h3>997</h3>
+<h3>1000+</h3>
 <sub><b>CONTRIBUTIONS</b></sub><br>
 <sub>in the last 12 months</sub>
 </td>
@@ -348,7 +352,7 @@ Multi-agent system that automates the full job application pipeline on Telegram.
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hereugo-ak&theme=tokyo-night&hide_border=true&bg_color=0f0f23&color=58a6ff&line=2ea043&point=ff6b35&area=true&area_color=2ea04330&title=Contribution%20Activity%20(997%20in%20the%20last%20year)" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hereugo-ak&theme=tokyo-night&hide_border=true&bg_color=0f0f23&color=58a6ff&line=2ea043&point=ff6b35&area=true&area_color=2ea04330&title=Contribution%20Activity%20(1000%2B%20in%20the%20last%20year)" width="90%" />
 
 <br><br>
 
