@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MBA+turned+AI+product+builder.;Resource-constrained+by+design.;No+CS+degree.+No+co-founder.+No+excuses.;4+products.+2+live.+1000%2B+commits." alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MBA+turned+AI+product+builder.;5000%2B+commits.+1000%2B+contributions.;Resource-constrained+by+design.;No+CS+degree.+No+co-founder.+No+excuses." alt="typing" />
 
 </div>
 
@@ -45,7 +45,7 @@
   └─────────────────────────────────────────────────┘
 ```
 
-**1,000+ GitHub contributions in the last year.** This is not a side project. It is the main thing.
+**5,000+ commits. 1,000+ contributions.** That ratio is not an accident. It means I am not farming visibility. I am heads-down in the editor, building. This is not a side project. It is the main thing.
 
 </div>
 
@@ -57,18 +57,51 @@
 
 <table>
 <tr>
-<td align="center" width="20%"><img src="https://img.shields.io/badge/1000%2B-Contributions-2ea043?style=for-the-badge&labelColor=0f0f23&color=2ea043" alt="contributions" /></td>
-<td align="center" width="20%"><img src="https://img.shields.io/badge/4-Products_Shipped-00C896?style=for-the-badge&labelColor=0f0f23&color=00C896" alt="products" /></td>
-<td align="center" width="20%"><img src="https://img.shields.io/badge/2-Live_in_Production-58A6FF?style=for-the-badge&labelColor=0f0f23&color=58A6FF" alt="live" /></td>
-<td align="center" width="20%"><img src="https://img.shields.io/badge/13-LLM_Providers-9B59B6?style=for-the-badge&labelColor=0f0f23&color=9B59B6" alt="llms" /></td>
-<td align="center" width="20%"><img src="https://img.shields.io/badge/₹0-Compute_Cost-FF6B35?style=for-the-badge&labelColor=0f0f23&color=FF6B35" alt="cost" /></td>
+<td align="center" width="16%">
+<h3>5,000+</h3>
+<sub><b>COMMITS</b></sub><br>
+<sub>heads-down building</sub>
+</td>
+<td align="center" width="16%">
+<h3>1,000+</h3>
+<sub><b>CONTRIBUTIONS</b></sub><br>
+<sub>last 12 months</sub>
+</td>
+<td align="center" width="16%">
+<h3>4</h3>
+<sub><b>PRODUCTS</b></sub><br>
+<sub>shipped, not prototyped</sub>
+</td>
+<td align="center" width="16%">
+<h3>2</h3>
+<sub><b>LIVE</b></sub><br>
+<sub>in production now</sub>
+</td>
+<td align="center" width="16%">
+<h3>13</h3>
+<sub><b>LLM PROVIDERS</b></sub><br>
+<sub>integrated and orchestrated</sub>
+</td>
+<td align="center" width="16%">
+<h3>₹0</h3>
+<sub><b>COMPUTE COST</b></sub><br>
+<sub>100% free-tier infra</sub>
+</td>
 </tr>
+</table>
+
+<br>
+
+<table>
 <tr>
-<td align="center"><sub>GitHub commits in 1 year</sub></td>
-<td align="center"><sub>Quantum Insights · Enroll+ · FORGE-X · Job Bot</sub></td>
-<td align="center"><sub>Quantum Insights · Enroll+</sub></td>
-<td align="center"><sub>Groq · Cerebras · Gemini · DeepSeek · Mistral · OpenRouter · NVIDIA NIM · Cloudflare · HuggingFace · Fireworks · SambaNova · Llama · Chronos</sub></td>
-<td align="center"><sub>100% free-tier infrastructure</sub></td>
+<td align="center" width="50%">
+<sub><b>COMMITS TO CONTRIBUTION RATIO: 5:1</b></sub><br>
+<sub>5 commits for every 1 contribution. That is not someone opening PRs for green squares. That is someone in the trenches.</sub>
+</td>
+<td align="center" width="50%">
+<sub><b>PRODUCTS BUILT SOLO</b></sub><br>
+<sub>Quantum Insights (multi-agent BI) · Enroll+ (school ERP, 5 platforms) · FORGE-X v4 (quant ML) · Telegram Job Bot (browser automation)</sub>
+</td>
 </tr>
 </table>
 
@@ -293,7 +326,7 @@ Multi-agent system that automates the full job application pipeline on Telegram.
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hereugo-ak&theme=tokyo-night&hide_border=true&bg_color=0f0f23&color=58a6ff&line=2ea043&point=ff6b35&area=true&area_color=2ea04330&title=Contribution%20Activity%20(1000%2B%20commits)" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hereugo-ak&theme=tokyo-night&hide_border=true&bg_color=0f0f23&color=58a6ff&line=2ea043&point=ff6b35&area=true&area_color=2ea04330&title=Contribution%20Activity%20(1000%2B%20contributions)" width="90%" />
 
 <br><br>
 
