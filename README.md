@@ -5,14 +5,14 @@
 <br>
 
 <a href="https://github.com/hereugo-ak?tab=followers"><img src="https://img.shields.io/github/followers/hereugo-ak?style=for-the-badge&color=1a1a2e&labelColor=0f0f23" alt="followers" /></a>
-<img src="https://img.shields.io/badge/Contributions-1000%2B-2ea043?style=for-the-badge&logo=github&labelColor=0f0f23&color=2ea043" alt="contributions" />
+<img src="https://img.shields.io/badge/Contributions-997_in_2025--2026-2ea043?style=for-the-badge&logo=github&labelColor=0f0f23&color=2ea043" alt="contributions" />
 <a href="https://quantuminsights-seven.vercel.app/"><img src="https://img.shields.io/badge/Live-Quantum_Insights-00C896?style=for-the-badge&logo=vercel&labelColor=0f0f23&color=00C896" alt="live" /></a>
 <a href="https://enrollplus.vercel.app/"><img src="https://img.shields.io/badge/Live-Enroll%2B-58A6FF?style=for-the-badge&logo=vercel&labelColor=0f0f23&color=58A6FF" alt="enroll-live" /></a>
 <img src="https://img.shields.io/badge/Status-Building-FF6B35?style=for-the-badge&labelColor=0f0f23&color=FF6B35" alt="status" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MBA+turned+AI+product+builder.;5000%2B+commits.+1000%2B+contributions.;Resource-constrained+by+design.;No+CS+degree.+No+co-founder.+No+excuses." alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MBA+turned+AI+product+builder.;4_public_repos._3_years_on_GitHub.;997+contributions_in_12_months.;Resource-constrained+by+design." alt="typing" />
 
 </div>
 
@@ -62,8 +62,9 @@ While CS grads debate framework choices, I ship. While bootcamp grads build todo
 <sub>shipped. 2 live in production. built solo.</sub>
 </td>
 <td align="center" width="33%">
-<h3>5,000+ commits</h3>
-<sub>heads-down in the editor. not farming green squares.</sub>
+<h3>4</h3>
+<sub><b>PUBLIC REPOS</b></sub><br>
+<sub>hereugo-ak · VidyaPrayag · quantum-insightsAI · financial-rag</sub>
 </td>
 </tr>
 </table>
@@ -79,14 +80,14 @@ While CS grads debate framework choices, I ship. While bootcamp grads build todo
 <table>
 <tr>
 <td align="center" width="16%">
-<h3>5,000+</h3>
-<sub><b>COMMITS</b></sub><br>
-<sub>heads-down building</sub>
+<h3>997</h3>
+<sub><b>CONTRIBUTIONS</b></sub><br>
+<sub>in the last 12 months</sub>
 </td>
 <td align="center" width="16%">
-<h3>1,000+</h3>
-<sub><b>CONTRIBUTIONS</b></sub><br>
-<sub>last 12 months</sub>
+<h3>419</h3>
+<sub><b>CONTRIBUTIONS IN 2026</b></sub><br>
+<sub>and still building</sub>
 </td>
 <td align="center" width="16%">
 <h3>4</h3>
@@ -99,9 +100,9 @@ While CS grads debate framework choices, I ship. While bootcamp grads build todo
 <sub>in production now</sub>
 </td>
 <td align="center" width="16%">
-<h3>13</h3>
-<sub><b>LLM PROVIDERS</b></sub><br>
-<sub>integrated and orchestrated</sub>
+<h3>3</h3>
+<sub><b>YEARS ON GITHUB</b></sub><br>
+<sub>most of the growth in the last 12 months</sub>
 </td>
 <td align="center" width="16%">
 <h3>₹0</h3>
@@ -116,12 +117,12 @@ While CS grads debate framework choices, I ship. While bootcamp grads build todo
 <table>
 <tr>
 <td align="center" width="50%">
-<sub><b>COMMITS TO CONTRIBUTION RATIO: 5:1</b></sub><br>
-<sub>5 commits for every 1 contribution. That is not someone opening PRs for green squares. That is someone in the trenches.</sub>
+<sub><b>JULY 2026 ACTIVITY</b></sub><br>
+<sub>93 commits across 3 repos: VidyaPrayag (81), hereugo-ak (6), quantum-insightsAI (6). Most of the year is back-loaded. The graph keeps climbing.</sub>
 </td>
 <td align="center" width="50%">
 <sub><b>PRODUCTS BUILT SOLO</b></sub><br>
-<sub>Quantum Insights (multi-agent BI) · Enroll+ (school ERP, 5 platforms) · FORGE-X v4 (quant ML) · Telegram Job Bot (browser automation)</sub>
+<sub>4 public repos: hereugo-ak (this profile), VidyaPrayag (Enroll+), quantum-insightsAI (Quantum Insights), financial-rag (FORGE-X)</sub>
 </td>
 </tr>
 </table>
@@ -347,7 +348,7 @@ Multi-agent system that automates the full job application pipeline on Telegram.
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hereugo-ak&theme=tokyo-night&hide_border=true&bg_color=0f0f23&color=58a6ff&line=2ea043&point=ff6b35&area=true&area_color=2ea04330&title=Contribution%20Activity%20(1000%2B%20contributions)" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hereugo-ak&theme=tokyo-night&hide_border=true&bg_color=0f0f23&color=58a6ff&line=2ea043&point=ff6b35&area=true&area_color=2ea04330&title=Contribution%20Activity%20(997%20in%20the%20last%20year)" width="90%" />
 
 <br><br>
 
