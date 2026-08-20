@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://github.com/hereugo-ak?tab=followers"><img src="https://img.shields.io/badge/Followers-1-1a1a2e?style=for-the-badge&labelColor=0f0f23" alt="followers" /></a>
+<a href="https://github.com/hereugo-ak?tab=followers"><img src="https://img.shields.io/github/followers/hereugo-ak?style=for-the-badge&color=1a1a2e&labelColor=0f0f23" alt="followers" /></a>
 <img src="https://img.shields.io/badge/Contributions-885-2ea043?style=for-the-badge&logo=github&labelColor=0f0f23&color=2ea043" alt="contributions" />
 <a href="https://quantuminsights-seven.vercel.app/"><img src="https://img.shields.io/badge/Live-Quantum_Insights-00C896?style=for-the-badge&logo=vercel&labelColor=0f0f23&color=00C896" alt="live" /></a>
 <a href="https://enrollplus.vercel.app/"><img src="https://img.shields.io/badge/Live-Enroll%2B-58A6FF?style=for-the-badge&logo=vercel&labelColor=0f0f23&color=58A6FF" alt="enroll-live" /></a>
@@ -444,13 +444,13 @@ Multi-agent system that automates the full job application pipeline on Telegram.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hereugo-ak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58a6ff&icon_color=2ea043&bg_color=0f0f23&custom_title=GitHub%20Stats" width="400" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hereugo-ak&theme=tokyonight&hide_border=true&ring=2ea043&fire=ff6b35&curr=58a6ff&background=0f0f23" width="400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hereugo-ak&theme=tokyonight" width="400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hereugo-ak&theme=tokyonight" width="400" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hereugo-ak&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff&bg_color=0f0f23" width="400" />
-<img src="https://github-profile-trophy.vercel.app/?username=hereugo-ak&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hereugo-ak&theme=tokyonight" width="400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hereugo-ak&theme=tokyonight" width="400" />
 
 <br>
 

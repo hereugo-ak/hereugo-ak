@@ -64,29 +64,6 @@ def github_contributions(login: str, start: datetime, end: datetime) -> int:
         raise RuntimeError(f"Unexpected GitHub response: {body}") from exc
 
 
-def github_followers(login: str) -> int:
-    token = os.environ.get("GITHUB_TOKEN")
-    if not token:
-        raise RuntimeError("GITHUB_TOKEN is required")
-
-    request = Request(
-        f"https://api.github.com/users/{login}",
-        headers={
-            "Authorization": f"Bearer {token}",
-            "Accept": "application/vnd.github+json",
-            "User-Agent": "hereugo-ak-profile-stats",
-        },
-        method="GET",
-    )
-    with urlopen(request, timeout=30) as response:
-        body = json.load(response)
-
-    try:
-        return int(body["followers"])
-    except (KeyError, TypeError, ValueError) as exc:
-        raise RuntimeError(f"Unexpected GitHub profile response: {body}") from exc
-
-
 def build_stats_block(rolling: int, year_total: int, year: int, updated: str) -> str:
     return f"""<!-- STATS:START -->
 <table>
@@ -112,7 +89,6 @@ def main() -> None:
     rolling = github_contributions(login, now - timedelta(days=365), now)
     year_total = github_contributions(login, datetime(now.year, 1, 1, tzinfo=timezone.utc), now)
     month_total = github_contributions(login, datetime(now.year, now.month, 1, tzinfo=timezone.utc), now)
-    followers = github_followers(login)
     updated_date = now.strftime("%Y-%m-%d")
     block = build_stats_block(rolling, year_total, now.year, updated_date)
 
@@ -123,7 +99,6 @@ def main() -> None:
         raise RuntimeError("README.md must contain exactly one STATS:START/STATS:END block")
 
     replacements = {
-        "__FOLLOWERS__": str(followers),
         "__ROLLING_CONTRIBUTIONS__": str(rolling),
         "__YEAR_CONTRIBUTIONS__": str(year_total),
         "__MONTH_CONTRIBUTIONS__": str(month_total),
@@ -140,8 +115,7 @@ def main() -> None:
 
     README.write_text(updated, encoding="utf-8")
     print(
-        f"Updated {README}: followers={followers}, rolling={rolling}, "
-        f"year={year_total}, month={month_total}"
+        f"Updated {README}: rolling={rolling}, year={year_total}, month={month_total}"
     )
 
 
