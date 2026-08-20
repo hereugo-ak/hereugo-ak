@@ -5,15 +5,16 @@
 <br>
 
 <a href="https://github.com/hereugo-ak?tab=followers"><img src="https://img.shields.io/github/followers/hereugo-ak?style=for-the-badge&color=1a1a2e&labelColor=0f0f23" alt="followers" /></a>
-<img src="https://img.shields.io/badge/Contributions-1000%2B-2ea043?style=for-the-badge&logo=github&labelColor=0f0f23&color=2ea043" alt="contributions" />
+<img src="https://img.shields.io/badge/Contributions-885-2ea043?style=for-the-badge&logo=github&labelColor=0f0f23&color=2ea043" alt="contributions" />
 <a href="https://quantuminsights-seven.vercel.app/"><img src="https://img.shields.io/badge/Live-Quantum_Insights-00C896?style=for-the-badge&logo=vercel&labelColor=0f0f23&color=00C896" alt="live" /></a>
 <a href="https://enrollplus.vercel.app/"><img src="https://img.shields.io/badge/Live-Enroll%2B-58A6FF?style=for-the-badge&logo=vercel&labelColor=0f0f23&color=58A6FF" alt="enroll-live" /></a>
+<a href="https://github.com/hereugo-ak/Hyperion"><img src="https://img.shields.io/badge/Featured-Hyperion-9B59B6?style=for-the-badge&logo=github&labelColor=0f0f23&color=9B59B6" alt="hyperion" /></a>
 <img src="https://img.shields.io/badge/Status-Building-FF6B35?style=for-the-badge&labelColor=0f0f23&color=FF6B35" alt="status" />
 <img src="https://komarev.com/ghpvc/?username=hereugo-ak&color=58A6FF&style=for-the-badge&label=Profile%20Views" alt="profile-views" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MBA+turned+AI+product+builder.;4+public+repos.+3+years+on+GitHub.;1000%2B+contributions+in+12+months.;Resource-constrained+by+design." alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MBA+turned+AI+product+builder.;7+public+repos.+3+years+on+GitHub.;885+contributions+in+12+months.;Resource-constrained+by+design." alt="typing" />
 
 </div>
 
@@ -59,20 +60,20 @@ While CS grads debate framework choices, I ship. While bootcamp grads build todo
 <sub>compute cost. 100% free-tier infra. production grade.</sub>
 </td>
 <td align="center" width="33%">
-<h3>4 products</h3>
+<h3>5 products</h3>
 <sub>shipped. 2 live in production. built solo.</sub>
 </td>
 <td align="center" width="33%">
-<h3>4</h3>
+<h3>7</h3>
 <sub><b>PUBLIC REPOS</b></sub><br>
-<sub>hereugo-ak · VidyaPrayag · quantum-insightsAI · financial-rag</sub>
+<sub>profile · Hyperion · VidyaPrayag · financial-rag · tooling</sub>
 </td>
 </tr>
 </table>
 
 <br>
 
-**1000+ contributions in the last year.** Daily building across 3 repos. That is not someone farming green squares. That is a solo builder treating GitHub like the main office. Because it is.
+**885 contributions in the last year.** Daily building across a growing portfolio. That is not someone farming green squares. That is a solo builder treating GitHub like the main office. Because it is.
 
 </div>
 
@@ -85,17 +86,17 @@ While CS grads debate framework choices, I ship. While bootcamp grads build todo
 <table>
 <tr>
 <td align="center" width="16%">
-<h3>1000+</h3>
+<h3>885</h3>
 <sub><b>CONTRIBUTIONS</b></sub><br>
 <sub>in the last 12 months</sub>
 </td>
 <td align="center" width="16%">
-<h3>419</h3>
+<h3>885</h3>
 <sub><b>CONTRIBUTIONS IN 2026</b></sub><br>
 <sub>and still building</sub>
 </td>
 <td align="center" width="16%">
-<h3>4</h3>
+<h3>5</h3>
 <sub><b>PRODUCTS</b></sub><br>
 <sub>shipped, not prototyped</sub>
 </td>
@@ -122,12 +123,12 @@ While CS grads debate framework choices, I ship. While bootcamp grads build todo
 <table>
 <tr>
 <td align="center" width="50%">
-<sub><b>JULY 2026 ACTIVITY</b></sub><br>
-<sub>95 commits across 3 repos: VidyaPrayag (81), hereugo-ak (6), quantum-insightsAI (6). Most of the year is back-loaded. The graph keeps climbing.</sub>
+<sub><b>AUGUST 2026 ACTIVITY</b></sub><br>
+<sub>87 contributions through August 20. Hyperion is now part of the active build portfolio, and the graph keeps climbing.</sub>
 </td>
 <td align="center" width="50%">
-<sub><b>PRODUCTS BUILT SOLO</b></sub><br>
-<sub>4 public repos: hereugo-ak (this profile), VidyaPrayag (Enroll+), quantum-insightsAI (Quantum Insights), financial-rag (FORGE-X)</sub>
+<sub><b>PUBLIC BUILD PORTFOLIO</b></sub><br>
+<sub>7 public repos across product, research, and tooling. Featured builds include Hyperion, Enroll+, Quantum Insights, and FORGE-X.</sub>
 </td>
 </tr>
 </table>
@@ -140,7 +141,41 @@ While CS grads debate framework choices, I ship. While bootcamp grads build todo
 
 <br>
 
-<!-- PROJECT 1: QUANTUM INSIGHTS -->
+<!-- PROJECT 1: HYPERION -->
+<div align="center">
+
+## [Hyperion — Multi-Agent Consulting Intelligence](https://github.com/hereugo-ak/Hyperion)
+
+<a href="https://github.com/hereugo-ak/Hyperion"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github&labelColor=0f0f23&color=181717" alt="github" /></a>
+<img src="https://img.shields.io/badge/Status-Active-00C896?style=for-the-badge&labelColor=0f0f23&color=00C896" alt="status" />
+<img src="https://img.shields.io/badge/Agents-20-9B59B6?style=for-the-badge&labelColor=0f0f23&color=9B59B6" alt="agents" />
+<img src="https://img.shields.io/badge/Python_Modules-176-58A6FF?style=for-the-badge&labelColor=0f0f23&color=58A6FF" alt="modules" />
+<img src="https://img.shields.io/badge/Test_Files-149-FF6B35?style=for-the-badge&labelColor=0f0f23&color=FF6B35" alt="tests" />
+<img src="https://img.shields.io/badge/Delivery-300_DPI-FFD700?style=for-the-badge&labelColor=0f0f23&color=FFD700" alt="delivery" />
+
+</div>
+
+> *Many minds. One reading.*
+
+A research-and-delivery operating system for high-stakes business questions. Hyperion turns a question into a governed engagement: it scopes the work, assigns only the expertise the question warrants, preserves the trail from source to claim, and refuses to treat a draft as delivery.
+
+| | |
+|:---|:---|
+| **20-Agent Runtime** | 2 orchestrators, 12 specialists, 4 support agents, and 2 delivery agents assembled around the question—not a fixed prompt chain |
+| **Evidence First** | Corpus preflight, deterministic retrieval fallbacks, and a run-scoped evidence ledger keep every claim traceable |
+| **Quality Gates** | Synthesis, fact checking, contradiction handling, and a ten-dimension quality rubric create targeted gap closure before release |
+| **Delivery Engine** | Charts, layout, embedded fonts, and audited 300 DPI PDF output turn research into client-ready work |
+| **Free-Tier by Design** | A capacity-aware router spans five provider families with tiering, budgets, wait gates, and circuit breakers |
+
+<div align="center">
+
+`Python 3.12` · `Pydantic` · `Textual` · `SQLite` · `Playwright` · `Docker` · `Mermaid`
+
+</div>
+
+---
+
+<!-- PROJECT 2: QUANTUM INSIGHTS -->
 <div align="center">
 
 ## [Quantum Insights](https://quantuminsights-seven.vercel.app/)
@@ -172,7 +207,7 @@ Multi-agent AI analytics platform that does not just show data. It **reasons** a
 
 ---
 
-<!-- PROJECT 2: FORGE-X -->
+<!-- PROJECT 3: FORGE-X -->
 <div align="center">
 
 ## [FORGE-X v4 — Financial RAG](https://github.com/hereugo-ak/financial-rag)
@@ -237,7 +272,7 @@ A defensible financial intelligence system with four compounding moats. Not a tr
 
 ---
 
-<!-- PROJECT 3: ENROLL+ -->
+<!-- PROJECT 4: ENROLL+ -->
 <div align="center">
 
 ## [Enroll+ (VidyaPrayag)](https://enrollplus.vercel.app/)
@@ -272,7 +307,7 @@ Full-stack AI-powered school management platform serving Indian schools. Admin, 
 
 ---
 
-<!-- PROJECT 4: TELEGRAM JOB BOT -->
+<!-- PROJECT 5: TELEGRAM JOB BOT -->
 <div align="center">
 
 ## Telegram Job Bot
@@ -393,12 +428,12 @@ Multi-agent system that automates the full job application pipeline on Telegram.
 <table>
 <tr>
 <td align="center" width="50%">
-<h2>1000+</h2>
+<h2>885</h2>
 <sub><b>CONTRIBUTIONS IN THE LAST YEAR</b></sub><br>
 <sub>GitHub's rolling 12-month count</sub>
 </td>
 <td align="center" width="50%">
-<h2>419</h2>
+<h2>885</h2>
 <sub><b>CONTRIBUTIONS IN 2026</b></sub><br>
 <sub>and the year is not over</sub>
 </td>
@@ -417,7 +452,7 @@ Multi-agent system that automates the full job application pipeline on Telegram.
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hereugo-ak&theme=tokyo-night&hide_border=true&bg_color=0f0f23&color=58a6ff&line=2ea043&point=ff6b35&area=true&area_color=2ea04330&title=Contribution%20Activity%20(1000%2B%20in%20the%20last%20year)" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hereugo-ak&theme=tokyo-night&hide_border=true&bg_color=0f0f23&color=58a6ff&line=2ea043&point=ff6b35&area=true&area_color=2ea04330&title=Contribution%20Activity%20(885%20in%20the%20last%20year)" width="90%" />
 
 <br><br>
 
