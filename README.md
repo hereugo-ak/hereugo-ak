@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/hereugo-ak?tab=followers"><img src="https://img.shields.io/github/followers/hereugo-ak?style=for-the-badge&color=1a1a2e&labelColor=0f0f23" alt="followers" /></a>
-<img src="https://img.shields.io/badge/Contributions-885-2ea043?style=for-the-badge&logo=github&labelColor=0f0f23&color=2ea043" alt="contributions" />
+<img src="https://img.shields.io/badge/Contributions-1%2C462-2ea043?style=for-the-badge&logo=github&labelColor=0f0f23&color=2ea043" alt="contributions" />
 <a href="https://quantuminsights-seven.vercel.app/"><img src="https://img.shields.io/badge/Live-Quantum_Insights-00C896?style=for-the-badge&logo=vercel&labelColor=0f0f23&color=00C896" alt="live" /></a>
 <a href="https://enrollplus.vercel.app/"><img src="https://img.shields.io/badge/Live-Enroll%2B-58A6FF?style=for-the-badge&logo=vercel&labelColor=0f0f23&color=58A6FF" alt="enroll-live" /></a>
 <a href="https://github.com/hereugo-ak/Hyperion"><img src="https://img.shields.io/badge/Featured-Hyperion-9B59B6?style=for-the-badge&logo=github&labelColor=0f0f23&color=9B59B6" alt="hyperion" /></a>
@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MBA+turned+AI+product+builder.;7+public+repos.+3+years+on+GitHub.;885+contributions+in+12+months.;Resource-constrained+by+design." alt="typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MBA+turned+AI+product+builder.;7+public+repos.+3+years+on+GitHub.;1%2C462+contributions+in+2026.;Resource-constrained+by+design." alt="typing" />
 
 </div>
 
@@ -73,7 +73,7 @@ While CS grads debate framework choices, I ship. While bootcamp grads build todo
 
 <br>
 
-**885 contributions in the last year.** Daily building across a growing portfolio. That is not someone farming green squares. That is a solo builder treating GitHub like the main office. Because it is.
+**1,462 contributions in 2026.** Daily building across a growing portfolio. That is not someone farming green squares. That is a solo builder treating GitHub like the main office. Because it is.
 
 </div>
 
@@ -86,14 +86,14 @@ While CS grads debate framework choices, I ship. While bootcamp grads build todo
 <table>
 <tr>
 <td align="center" width="16%">
-<h3>885</h3>
-<sub><b>CONTRIBUTIONS</b></sub><br>
-<sub>in the last 12 months</sub>
+<h3>1,462</h3>
+<sub><b>CONTRIBUTIONS IN 2026</b></sub><br>
+<sub>native GitHub calendar total</sub>
 </td>
 <td align="center" width="16%">
-<h3>885</h3>
-<sub><b>CONTRIBUTIONS IN 2026</b></sub><br>
-<sub>and still building</sub>
+<h3>58</h3>
+<sub><b>AUGUST COMMITS</b></sub><br>
+<sub>Hyperion activity feed</sub>
 </td>
 <td align="center" width="16%">
 <h3>5</h3>
@@ -123,8 +123,8 @@ While CS grads debate framework choices, I ship. While bootcamp grads build todo
 <table>
 <tr>
 <td align="center" width="50%">
-<sub><b>AUGUST 2026 ACTIVITY</b></sub><br>
-<sub>87 contributions through 2026-08-20. Hyperion is now part of the active build portfolio, and the graph keeps climbing.</sub>
+<sub><b>LIVE GITHUB ACTIVITY</b></sub><br>
+<sub>Open the native GitHub calendar below for the authoritative day-by-day view.</sub>
 </td>
 <td align="center" width="50%">
 <sub><b>PUBLIC BUILD PORTFOLIO</b></sub><br>
@@ -429,14 +429,14 @@ Multi-agent system that automates the full job application pipeline on Telegram.
 <table>
 <tr>
 <td align="center" width="50%">
-<h2>885</h2>
-<sub><b>CONTRIBUTIONS IN THE LAST YEAR</b></sub><br>
-<sub>GitHub's rolling 12-month count</sub>
+<h2>1,462</h2>
+<sub><b>CONTRIBUTIONS IN 2026</b></sub><br>
+<sub>native GitHub calendar total</sub>
 </td>
 <td align="center" width="50%">
-<h2>885</h2>
-<sub><b>CONTRIBUTIONS IN 2026</b></sub><br>
-<sub>live calendar total · updated 2026-08-20</sub>
+<h2>7</h2>
+<sub><b>PUBLIC REPOSITORIES</b></sub><br>
+<sub>owner-visible public repository count</sub>
 </td>
 </tr>
 </table>
@@ -444,21 +444,15 @@ Multi-agent system that automates the full job application pipeline on Telegram.
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hereugo-ak&theme=tokyonight" width="400" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hereugo-ak&theme=tokyonight" width="400" />
+<a href="https://github.com/hereugo-ak?tab=overview&from=2026-01-01&to=2026-08-20">
+<img src="https://img.shields.io/badge/OPEN_LIVE_GITHUB_CALENDAR-1%2C462_contributions_in_2026-2ea043?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0f23" alt="open live GitHub calendar" />
+</a>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hereugo-ak&theme=tokyonight" width="400" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hereugo-ak&theme=tokyonight" width="400" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hereugo-ak&theme=tokyo-night&hide_border=true&bg_color=0f0f23&color=58a6ff&line=2ea043&point=ff6b35&area=true&area_color=2ea04330&title=Contribution%20Activity%20(Live%20rolling%2012-month%20view)" width="90%" />
+<sub>Charts removed intentionally: third-party cards were returning stale public-only totals and did not match GitHub’s native calendar. The linked GitHub view is the source of truth.</sub>
 
 <br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hereugo-ak&theme=tokyonight" width="90%" />
 
 </div>
 

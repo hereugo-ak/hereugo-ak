@@ -1,20 +1,26 @@
 #!/usr/bin/env python3
-"""Refresh the profile README's contribution statistics from GitHub GraphQL."""
+"""Refresh contribution metrics from the authenticated GitHub profile calendar.
+
+The profile calendar can include private or restricted contributions that the
+repository's default GITHUB_TOKEN cannot see. The workflow therefore requires
+GITHUB_PROFILE_TOKEN; without it, the updater exits safely without changing the
+README.
+"""
 
 from __future__ import annotations
 
 import json
 import os
 import re
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 from pathlib import Path
 from urllib.request import Request, urlopen
 
 README = Path(__file__).resolve().parents[2] / "README.md"
 GRAPHQL_URL = "https://api.github.com/graphql"
 QUERY = """
-query($login: String!, $from: DateTime!, $to: DateTime!) {
-  user(login: $login) {
+query($from: DateTime!, $to: DateTime!) {
+  viewer {
     contributionsCollection(from: $from, to: $to) {
       contributionCalendar { totalContributions }
     }
@@ -23,16 +29,15 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
 """
 
 
-def github_contributions(login: str, start: datetime, end: datetime) -> int:
-    token = os.environ.get("GITHUB_TOKEN")
+def authenticated_year_total(start: datetime, end: datetime) -> int:
+    token = os.environ.get("GITHUB_PROFILE_TOKEN")
     if not token:
-        raise RuntimeError("GITHUB_TOKEN is required")
+        raise RuntimeError("GITHUB_PROFILE_TOKEN is required")
 
     payload = json.dumps(
         {
             "query": QUERY,
             "variables": {
-                "login": login,
                 "from": start.isoformat().replace("+00:00", "Z"),
                 "to": end.isoformat().replace("+00:00", "Z"),
             },
@@ -57,26 +62,26 @@ def github_contributions(login: str, start: datetime, end: datetime) -> int:
 
     try:
         return int(
-            body["data"]["user"]["contributionsCollection"]
+            body["data"]["viewer"]["contributionsCollection"]
             ["contributionCalendar"]["totalContributions"]
         )
     except (KeyError, TypeError, ValueError) as exc:
         raise RuntimeError(f"Unexpected GitHub response: {body}") from exc
 
 
-def build_stats_block(rolling: int, year_total: int, year: int, updated: str) -> str:
+def build_stats_block(year_total: int, year: int, updated: str) -> str:
     return f"""<!-- STATS:START -->
 <table>
 <tr>
 <td align=\"center\" width=\"50%\">
-<h2>{rolling}</h2>
-<sub><b>CONTRIBUTIONS IN THE LAST YEAR</b></sub><br>
-<sub>GitHub's rolling 12-month count</sub>
-</td>
-<td align=\"center\" width=\"50%\">
 <h2>{year_total}</h2>
 <sub><b>CONTRIBUTIONS IN {year}</b></sub><br>
-<sub>live calendar total · updated {updated}</sub>
+<sub>GitHub native calendar · updated {updated}</sub>
+</td>
+<td align=\"center\" width=\"50%\">
+<h2>7</h2>
+<sub><b>PUBLIC REPOSITORIES</b></sub><br>
+<sub>owner-visible public repository count</sub>
 </td>
 </tr>
 </table>
@@ -84,41 +89,61 @@ def build_stats_block(rolling: int, year_total: int, year: int, updated: str) ->
 
 
 def main() -> None:
-    login = os.environ.get("GITHUB_USERNAME", "hereugo-ak")
-    now = datetime.now(timezone.utc)
-    rolling = github_contributions(login, now - timedelta(days=365), now)
-    year_total = github_contributions(login, datetime(now.year, 1, 1, tzinfo=timezone.utc), now)
-    month_total = github_contributions(login, datetime(now.year, now.month, 1, tzinfo=timezone.utc), now)
-    updated_date = now.strftime("%Y-%m-%d")
-    block = build_stats_block(rolling, year_total, now.year, updated_date)
+    token = os.environ.get("GITHUB_PROFILE_TOKEN")
+    if not token:
+        print("GITHUB_PROFILE_TOKEN is not configured; leaving README unchanged")
+        return
 
+    now = datetime.now(timezone.utc)
+    year_total = authenticated_year_total(
+        datetime(now.year, 1, 1, tzinfo=timezone.utc), now
+    )
+    updated_date = now.strftime("%Y-%m-%d")
+    block = build_stats_block(year_total, now.year, updated_date)
     text = README.read_text(encoding="utf-8")
-    pattern = r"<!-- STATS:START -->.*?<!-- STATS:END -->"
-    updated, replacements = re.subn(pattern, block, text, count=1, flags=re.DOTALL)
+
+    updated, replacements = re.subn(
+        r"<!-- STATS:START -->.*?<!-- STATS:END -->",
+        block,
+        text,
+        count=1,
+        flags=re.DOTALL,
+    )
     if replacements != 1:
         raise RuntimeError("README.md must contain exactly one STATS:START/STATS:END block")
 
-    replacements = {
-        "__ROLLING_CONTRIBUTIONS__": str(rolling),
-        "__YEAR_CONTRIBUTIONS__": str(year_total),
-        "__MONTH_CONTRIBUTIONS__": str(month_total),
-        "__YEAR__": str(now.year),
-        "__MONTH_NAME__": now.strftime("%B").upper(),
-        "__UPDATED_DATE__": updated_date,
-    }
-    for placeholder, value in replacements.items():
-        updated = updated.replace(placeholder, value)
+    updated = re.sub(
+        r"(badge/Contributions-)\d+(-2ea043)",
+        rf"\g<1>{year_total}\g<2>",
+        updated,
+        count=1,
+    )
+    updated = re.sub(
+        r"(?<=;)(?:\d+)\+contributions\+in\+[^;]+",
+        f"{year_total}+contributions+in+{now.year}",
+        updated,
+        count=1,
+    )
+    updated = re.sub(
+        r"\*\*\d+ contributions in [^*]+\.\*\*",
+        f"**{year_total} contributions in {now.year}.**",
+        updated,
+        count=1,
+    )
+    updated = re.sub(
+        r"(<h3>)\d+(</h3>\n<sub><b>CONTRIBUTIONS IN \d+</b>)",
+        rf"\g<1>{year_total}\g<2>",
+        updated,
+        count=1,
+    )
 
     if updated == text:
         print("Stats are already current")
         return
 
     README.write_text(updated, encoding="utf-8")
-    print(
-        f"Updated {README}: rolling={rolling}, year={year_total}, month={month_total}"
-    )
+    print(f"Updated {README} with {year_total} authenticated contributions in {now.year}")
 
 
 if __name__ == "__main__":
     main()
-

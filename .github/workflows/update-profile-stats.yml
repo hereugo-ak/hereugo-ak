@@ -16,13 +16,12 @@ jobs:
   update:
     runs-on: ubuntu-latest
     env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      GITHUB_USERNAME: hereugo-ak
+      GITHUB_PROFILE_TOKEN: ${{ secrets.GITHUB_PROFILE_TOKEN }}
     steps:
       - name: Check out profile repository
         uses: actions/checkout@v4
 
-      - name: Refresh contribution totals
+      - name: Refresh authenticated contribution totals
         run: python3 .github/scripts/update_stats.py
 
       - name: Commit refreshed README
