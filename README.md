@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://github.com/hereugo-ak?tab=followers"><img src="https://img.shields.io/github/followers/hereugo-ak?style=for-the-badge&color=1a1a2e&labelColor=0f0f23" alt="followers" /></a>
+<a href="https://github.com/hereugo-ak?tab=followers"><img src="https://img.shields.io/badge/Followers-1-1a1a2e?style=for-the-badge&labelColor=0f0f23" alt="followers" /></a>
 <img src="https://img.shields.io/badge/Contributions-885-2ea043?style=for-the-badge&logo=github&labelColor=0f0f23&color=2ea043" alt="contributions" />
 <a href="https://quantuminsights-seven.vercel.app/"><img src="https://img.shields.io/badge/Live-Quantum_Insights-00C896?style=for-the-badge&logo=vercel&labelColor=0f0f23&color=00C896" alt="live" /></a>
 <a href="https://enrollplus.vercel.app/"><img src="https://img.shields.io/badge/Live-Enroll%2B-58A6FF?style=for-the-badge&logo=vercel&labelColor=0f0f23&color=58A6FF" alt="enroll-live" /></a>
@@ -124,7 +124,7 @@ While CS grads debate framework choices, I ship. While bootcamp grads build todo
 <tr>
 <td align="center" width="50%">
 <sub><b>AUGUST 2026 ACTIVITY</b></sub><br>
-<sub>87 contributions through August 20. Hyperion is now part of the active build portfolio, and the graph keeps climbing.</sub>
+<sub>87 contributions through 2026-08-20. Hyperion is now part of the active build portfolio, and the graph keeps climbing.</sub>
 </td>
 <td align="center" width="50%">
 <sub><b>PUBLIC BUILD PORTFOLIO</b></sub><br>
