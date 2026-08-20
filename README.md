@@ -425,6 +425,7 @@ Multi-agent system that automates the full job application pipeline on Telegram.
 
 <div align="center">
 
+<!-- STATS:START -->
 <table>
 <tr>
 <td align="center" width="50%">
@@ -435,10 +436,11 @@ Multi-agent system that automates the full job application pipeline on Telegram.
 <td align="center" width="50%">
 <h2>885</h2>
 <sub><b>CONTRIBUTIONS IN 2026</b></sub><br>
-<sub>and the year is not over</sub>
+<sub>live calendar total · updated 2026-08-20</sub>
 </td>
 </tr>
 </table>
+<!-- STATS:END -->
 
 <br>
 
@@ -452,7 +454,7 @@ Multi-agent system that automates the full job application pipeline on Telegram.
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hereugo-ak&theme=tokyo-night&hide_border=true&bg_color=0f0f23&color=58a6ff&line=2ea043&point=ff6b35&area=true&area_color=2ea04330&title=Contribution%20Activity%20(885%20in%20the%20last%20year)" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hereugo-ak&theme=tokyo-night&hide_border=true&bg_color=0f0f23&color=58a6ff&line=2ea043&point=ff6b35&area=true&area_color=2ea04330&title=Contribution%20Activity%20(Live%20rolling%2012-month%20view)" width="90%" />
 
 <br><br>
 
