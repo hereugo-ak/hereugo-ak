@@ -32,7 +32,7 @@
 
 <br><br>
 
-**Knows enough code to be dangerous.**
+**Knows enough code.**
 
 The rest is no-code tools, AI as co-pilot, and instinct for what real users need.
 
